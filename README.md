@@ -40,6 +40,4 @@ Currently, I'm converting from eCommerce (Magento) development to Machine Learni
 
 ![Anton Hordieiev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ufoxix&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ufoxix&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ufoxix&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
