@@ -24,9 +24,10 @@ Currently, I'm converting from eCommerce (Magento) development to Machine Learni
 
 ## Languages
 
-- Python
-- PHP
-- JavaScript, HTML5, CSS3 (Flexbox, SCSS, LESS)
+- Python (Flask)
+- PHP (Magento, Symfony, Laravel)
+- JavaScript, (TypeScript, React, Redux, NPM)
+- HTML5, CSS3 (Flexbox, SCSS, LESS)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufoxix&layout=compact&langs_count=10" />
 
