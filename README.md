@@ -30,7 +30,7 @@ Currently, I'm converting from eCommerce (Magento) development to Machine Learni
 
 - Python (Flask)
 - PHP (Magento, Symfony, Laravel)
-- JavaScript, (TypeScript, React, Redux, NPM)
+- JavaScript, (TypeScript, React, Redux)
 - HTML5, CSS3 (Flexbox, SCSS, LESS)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufoxix&layout=compact&langs_count=10" />
@@ -39,6 +39,9 @@ Currently, I'm converting from eCommerce (Magento) development to Machine Learni
 
 - Keras and PyTorch
 - Numpy, Pandas, Seaborn and Plotly
+- PIP
+- Composer
+- NPM
 
 
 ## Stats
