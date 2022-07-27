@@ -24,7 +24,9 @@ Currently, I'm converting from eCommerce (Magento) development to Machine Learni
 
 ## Courses & Certifications
 
-**Adobe Certified Professional—Adobe Commerce Developer** [<img src='https://images.credly.com/size/680x680/images/48e73336-c91d-477f-a66f-3ad950acb597/Adobe_Certified_Professional_Experience_Cloud_products_Digital_Badge.png' alt='adobe_cert' height='20'>](https://www.credly.com/badges/2bc35209-26cb-4066-852b-fe3f01afbd8c/linked_in_profile)](https://www.credly.com/badges/2bc35209-26cb-4066-852b-fe3f01afbd8c/linked_in_profile)
+TT **Adobe Certified Professional—Adobe Commerce Developer** [<img src='https://images.credly.com/size/680x680/images/48e73336-c91d-477f-a66f-3ad950acb597/Adobe_Certified_Professional_Experience_Cloud_products_Digital_Badge.png' alt='adobe_cert' height='20'>](https://www.credly.com/badges/2bc35209-26cb-4066-852b-fe3f01afbd8c/linked_in_profile)
+
+Building Modern **Python Applications on AWS** [<img src='https://upload.wikimedia.org/wikipedia/en/3/32/Coursera_logo.svg' alt='Coursera_logo' height='20'>](https://www.coursera.org/learn/building-modern-python-applications-on-aws/home/welcome)
 
 ## Languages
 
